@@ -1,5 +1,4 @@
 /*Resume style*/
-
 BODY {
   font-family: 'Open Sans', arial , sans-serif;
   font-size: 1em;
@@ -18,12 +17,16 @@ strong {
   font-size:1.5em;
 }
 h2 {
-font-size:1.5em;
-text-transform: uppercase;
+  font-size:1.5em;
+  text-transform: uppercase;
   background-color:#33485e;
   color:#fff;
 }
 h3 {
   font-size:2em;
   font-weight:600;
+}
+h4 {
+  font-weight:400;
+  font-size:1.5em;  
 }
