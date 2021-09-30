@@ -32,6 +32,9 @@ strong {
   margin-top: 20px;
   margin-left: 0px;
   margin-right: 0px;
+  width: 70%;
+  min-width: 300px;
+  
 }
 h3 {
   font-size:2em;
