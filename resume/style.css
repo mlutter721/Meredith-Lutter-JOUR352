@@ -1,4 +1,12 @@
 /*Resume style*/
+
+#container{
+  width: 100%;
+  max-width: 1200px;
+  
+}
+
+
 BODY {
   font-family: 'Open Sans', arial , sans-serif;
   font-size: 1em;
