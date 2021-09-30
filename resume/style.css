@@ -5,12 +5,15 @@ BODY {
   color:#444;
   font-weight:400;
 }
-h1 {
+
+/*name*/
+#name {
   font-size:3em;
   text-transform:uppercase;
   text-align:center;
   color:#33485e;
 }
+
 strong {
   color:#33485e;
   text-transform:uppercase;
