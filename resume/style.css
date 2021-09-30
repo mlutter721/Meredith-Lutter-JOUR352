@@ -23,6 +23,7 @@ strong {
   text-transform:uppercase;
   font-size:1.5em;
 }
+/*sectionheaders*/
 .sectionheader {
   font-size:1.5em;
   text-transform: uppercase;
@@ -34,7 +35,7 @@ strong {
   margin-right: 0px;
   width: 70%;
   min-width: 300px;
-  
+
 }
 h3 {
   font-size:2em;
