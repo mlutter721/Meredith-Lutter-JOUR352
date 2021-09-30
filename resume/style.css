@@ -12,6 +12,10 @@ BODY {
   text-transform:uppercase;
   text-align:center;
   color:#33485e;
+  border-bottom:2px solid #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto; 
 }
 
 strong {
