@@ -4,7 +4,7 @@
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  
+
 }
 
 
@@ -58,4 +58,10 @@ h5 {
   font-weight:400;
   font-size:1em;
   font-style:italic;
+}
+
+.menu {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  display: inline;
 }
