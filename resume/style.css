@@ -63,6 +63,7 @@ h5 {
 .menu {
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
-  align: center;
+  text-align: center;
   display: inline;
+  list-style-type: none;
 }
