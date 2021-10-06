@@ -63,5 +63,6 @@ h5 {
 .menu {
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
+  align-items: center;
   display: inline;
 }
