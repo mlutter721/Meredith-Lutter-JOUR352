@@ -65,16 +65,31 @@ h5 {
 }
 
 .menu {
-  text-align: center;
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
   display: inline;
 
   }
-  .menu li {
+  .menu li{
     display: inline;
     text-align: center;
   }
-  #contact_info{
-    display: inline;
+  .top {
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 30px;
   }
+
+  #do{
+    margin-top: 5px;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+  }
+#degrees{
+  margin-top: 5px;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+}
