@@ -1,0 +1,60 @@
+h1{
+  font-family: 'Play', helvetica,arial,sans-serif;
+  font-size: 3em;
+}
+
+h2{
+  font-family: 'Play', helvetica, arial, sans-serif;
+  font-size: 2em;
+}
+
+p{
+  font-family: helvetica, arial, sans-serif;
+  font-size: 1em;
+}
+.masthead{
+  color: white;
+  background-image: url("https://i.ytimg.com/vi/W68nbKSIPFI/maxresdefault.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+  width: auto;
+  text-align: left;
+  text-shadow: 2px 2px black;
+}
+
+img{
+  width: 50%;
+  height: auto;
+}
+/*wrap div*/
+#hug{
+  column-count: 1;
+  width: auto;
+  align-content: center;
+}
+
+#byline{
+  font-size: 1em;
+  font-family: 'Play', helvetica, arial, sans-serif;
+  font-style: italic;
+}
+
+blockquote{
+  font-family: helvetica, arial, sans-serif;
+  font-size: 2em;
+  background-color: grey;
+  color: white;
+  border: 5px;
+  padding: 10px;
+  text-align: center;
+}
+
+.caption{
+  font-family: helvetica, arial, sans-serif;
+}
+
+body{
+  align-items: center;
+}
