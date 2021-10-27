@@ -10,23 +10,26 @@ h1{
 h2{
   font-size: 2em;
   font-weight: 50;
-  background-color: #e64398;
+  background-color: #659dbd;
   border-radius: 10px;
   padding-left: 5px;
+  color: white;
 }
 h3{
   font-size: 1em;
   font-weight: 25;
   border-radius: 10px;
-  background-color: #a1c3d1;
+  background-color: #bc986a;
   width: 75%;
   padding-left: 5px;
+  color: white;
 }
 h4{
-  background-color: #f172a1;
+  background-color: #daad86;
   border-radius: 10px;
   width: 50%;
   padding-left: 5px;
+  color: white;
 }
 h5{
   font-style: italic;
@@ -43,10 +46,10 @@ li{
 }
 .fluid-container{
   font-family: 'Rajdhani', arial, sans-serif;
-  color: white;
+  color: #5C4033.;
   column-count: 1;
   column-fill: 100%;
-  background-color: #b39bc8;
+  background-color: #FFFDE4;
   width: 100%;
   padding-left: 10px;
   padding-right: 10px;
@@ -73,8 +76,13 @@ img{
   width: 100%;
 }
 
-@media (max-width:500px) {
-width: auto;
+@media and screen (min-width:500px) {
+.fluid-container{
+  color: black;
+  background-color: white;
+}
+}
+
 }
 
 #about{
@@ -85,5 +93,12 @@ width: auto;
 
 #contact{
   text-align: center;
+  border-radius: 10px;
+}
+
+footer{
+  text-align: center;
+  color: darkgrey;
+  background-color: lightgrey;
   border-radius: 10px;
 }
