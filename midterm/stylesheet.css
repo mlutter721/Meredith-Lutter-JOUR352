@@ -49,6 +49,7 @@ blockquote{
   border: 5px;
   padding: 10px;
   text-align: center;
+  font-style: italic;
 }
 
 .caption{
