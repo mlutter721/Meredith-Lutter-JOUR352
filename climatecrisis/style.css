@@ -1,0 +1,75 @@
+.container {
+  text-align:center;
+}
+
+.hero-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.overlay {
+  position: absolute;
+  width:100%;
+  top: 20%;
+  background:#000;
+  opacity:.7;
+}
+
+.hero-image{
+    width:100%;
+}
+
+.hero-hed{
+  padding-top:10px;
+  margin:0 auto;
+  font-size:6em;
+  font-family: serif;
+  padding-bottom:10px;
+  color:#fff;
+}
+
+.hero-sub {
+  font-family: 'Montserrat', sans-serif;
+  font-size:.25em;
+}
+
+.red {
+    color: #F23030;
+}
+
+.headline{
+  font-size: 3em;
+  font-weight: 700;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.byline{
+  font-size: 1em;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+p{
+  font-family: Georgia, serif;
+  line-height: 180%;
+}
+
+.chapter{
+  font-size: 2em;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+}
+
+img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.caption{
+  text-align: center;
+  color: lightgrey;
+}
