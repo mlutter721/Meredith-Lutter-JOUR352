@@ -1,5 +1,8 @@
 .container {
-  text-align:center;
+  text-align: left;
+  border: 0 150px 0 150px;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
 .hero-container {
@@ -17,15 +20,15 @@
 }
 
 .hero-image{
-    width:100%;
+    width: 100%;
 }
 
 .hero-hed{
   padding-top:10px;
   margin:0 auto;
   font-size:6em;
-  font-family: serif;
-  padding-bottom:10px;
+  font-family: Georgia, serif;
+  padding-bottom:100px;
   color:#fff;
 }
 
@@ -40,16 +43,17 @@
 
 .headline{
   font-size: 3em;
-  font-weight: 700;
-  text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  text-align: left;
+  font-family:Georgia,serif;
+
 }
 
 .byline{
   font-size: 1em;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
-  text-align: center;
+  text-align: left;
 }
 
 p{
@@ -58,18 +62,77 @@ p{
 }
 
 .chapter{
-  font-size: 2em;
+  font-size: 1.5em;
   font-weight: 700;
   font-family: 'Montserrat', sans-serif;
+  color: Red;
+  text-transform: uppercase;
 }
 
-img{
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+.ack{
+  font-style: italic;
 }
 
-.caption{
+.quote{
+  background-color: lightgrey;
+  color: red;
+  font-size: 2em;
+  font-family: Georgia, serif;
+  font-weight:700;
+  text-align: left;
+  padding: 20px 0 20px 10px;
+  border: 1px solid red;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.whosaid{
+  font-size:.5em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight:100;
+  text-align:left;
+  color:#000;
+}
+
+.text-box{
+  background-color: lightgrey;
+  width: 75%;
+  margin: 0 auto;
+  border: solid grey 1px;
+  margin-top:20px;
+  margin-bottom:20px;
+
+}
+
+.box-title{
+  color:	black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
   text-align: center;
-  color: lightgrey;
+}
+
+.text-box{
+  padding-left: 2em;
+  padding-right: 2em;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  text-align: left;
+  color: black;
+}
+
+.intro{
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25em;
+  text-align: left;
+}
+
+.source{
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  font-family: 'Montserrat', sans-serif;
+  font-size: .70em;
+  text-align: left;
+  color: black;
 }
