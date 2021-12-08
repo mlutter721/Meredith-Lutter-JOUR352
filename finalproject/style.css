@@ -1,0 +1,105 @@
+body{
+  font-family: 'Rajdhani', sans-serif;
+}
+
+/*topper*/
+.hero-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.overlay {
+  position: absolute;
+  width:100%;
+  top: 26%;
+  opacity: 1;
+}
+
+.hero-image{
+    width:100%;
+    height: auto;
+  }
+
+  .red{
+    color: #BF0A30;
+    font-family: 'Corinthia',cursive;
+    font-size: 4em;
+    letter-spacing: 0.1em;
+    text-shadow: 2px 2px black;
+  }
+  .white{
+    color: white;
+    font-family: 'Corinthia',cursive;
+    font-size: 4em;
+    letter-spacing: 0.1em;
+    text-shadow: 2px 2px black;
+
+  }
+
+  .letter{
+    color: blue;
+    font-family: 'Zilla Slab', serif;
+    font-size: 10em;
+    line-height: 0.1em;
+  }
+/*end topper*/
+
+.container{
+  text-align: center;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.headline{
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 2.5em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.byline{
+  font-size: 1em;
+  margin-top: -10px;
+  text-align: center;
+}
+
+p{
+  text-align: left;
+  font-size: 1.25em;
+}
+
+.bigQ{
+  width: 100%;
+}
+
+.caption{
+  font-size: 0.80em;
+  color: grey;
+  width: 100%;
+  padding-top: 10px;
+  text-align: right;
+  padding-right: 20px;
+
+}
+
+.quote{
+  font-weight: 200;
+  color: #BF0A30;
+  background-color: white;
+  font-size: 3em;
+  text-align: left;
+  padding: 15px 10px 15px 10px;
+  border-top:1px solid #BF0A30;
+  border-bottom:1px solid #BF0A30;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.attribution{
+  font-size: 0.75em;
+  color: #002868;
+  font-style: italic;
+  font-weight: 100;
+  text-align: right;
+}
