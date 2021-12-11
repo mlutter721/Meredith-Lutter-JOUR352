@@ -41,7 +41,8 @@ body{
     color: blue;
     font-family: 'Zilla Slab', serif;
     font-size: 10em;
-    line-height: 0.1em;
+    line-height: 0.2em;
+    font-weight: bold;
   }
 /*end topper*/
 
@@ -82,7 +83,13 @@ p{
   padding-right: 20px;
 
 }
+.tweet{
+  width: 600px;
+  height: auto;
+  border-bottom: 5px solid #002868;
+  border-right: 5px solid #002868;
 
+}
 .quote{
   font-weight: 200;
   color: #BF0A30;
