@@ -124,3 +124,39 @@ p{
   width: 50%;
   height: auto;
 }
+
+@media (max-width: 775px){
+  .red{
+    font-size: 2em;
+  }
+  .white{
+    font-size: 2em;
+  }
+  .letter{
+    font-size: 2em;
+    padding-top: 0px;
+    line-height: 0px;
+  }
+  .container{
+    padding-left: 10px;
+    padding-right:10px;
+    margin-right: auto;
+  }
+
+  .tweet{
+    width: 300px;
+  }
+
+  .video{
+    width: 300px;
+    height: auto;
+  }
+  .horns{
+    width: 300px;
+  }
+
+  .quote{
+    font-size: 1em;
+  }
+
+}
